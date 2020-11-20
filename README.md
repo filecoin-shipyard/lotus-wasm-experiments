@@ -7,7 +7,7 @@ Experimenting with re-using Lotus to build WebAssembly modules
 
 ## ClientQueryAsk
 
-* https://ipfs.io/ipfs/QmbsMbojwFWCVvEoc8e3boxuqrWx3aUwerc7BRog3eCcfU/
+* https://ipfs.io/ipfs/QmQT2rB1v2DZdu1nwwnXzSokTMbEuFephTJznNSa2gCxD9/
 * Source: https://github.com/jimpick/wasm-client-query-ask-demo
 
 # Branches
