@@ -1,6 +1,12 @@
 lotus-wasm-experiments
 ======================
 
+## Status
+
+This repository is in a **frozen** state. Neither this repository, or the referenced repositories, are being actively maintained or kept in sync with the tools and libraries they depend on. Even though work on this repository has been **shelved**, anyone interested in updating or maintaining this project should express their interest on one Filecoin community conversation mediums: <https://github.com/filecoin-project/community#join-the-community>.
+
+---
+
 Experimenting with re-using Lotus to build WebAssembly modules
 
 # Demos
